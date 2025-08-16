@@ -1,0 +1,1 @@
+This is my version of an image carousel. Made for a project on "The Odin Project".
